@@ -5,6 +5,7 @@
 This application features the ability to simulate a simple boat on the waves.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704179-f6126880-2d95-11ea-993a-9131d412e9ea.png)
 
 ## Application Compiling
 
